@@ -8,6 +8,9 @@ def login(username):
 def logout(username):
     print(f"User {username} logged out")
 
+def signup(username):
+    print(f"User {username} signed up successfully")
+
 greet()
 login("student1")
 logout("student1")
