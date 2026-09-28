@@ -1,4 +1,4 @@
-# DevOps Lab - Week 3
+# DevOps Lab - Week 3 - Conflict Branch
 def greet():
     print("Welcome to DevOps Lab")
 
