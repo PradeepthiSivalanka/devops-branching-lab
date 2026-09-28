@@ -1,4 +1,5 @@
 # DevOps Lab - Week 3 - Merged Header (Main + Conflict Demo)
+
 def greet():
     print("Welcome to DevOps Lab")
 
@@ -10,6 +11,9 @@ def logout(username):
 
 def signup(username):
     print(f"User {username} signed up successfully")
+
+def profile(username):
+    print(f"User {username} profile updated")
 
 greet()
 login("student1")
